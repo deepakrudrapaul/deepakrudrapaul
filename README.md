@@ -9,7 +9,7 @@ Ful Stack Developer
 -------------
   
 
-- 🔭 I’m currently working on [Swing Scan](https://github.com/deepakrudrapaul/swingscan)  
+- 🔭 I’m currently working on [Stock Vue](https://github.com/deepakrudrapaul/stock-vue)  
   
 
 - 🌱 I’m currently learning Python
