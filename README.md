@@ -81,7 +81,7 @@ Ful Stack Developer
 
 
 ## Connect with me  
-<div align="center">
+<div>
 <a href="https://github.com/deepakrudrapaul" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -104,12 +104,16 @@ Ful Stack Developer
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=deepakrudrapaul&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+<a href="http://www.github.com/deepakrudrapaul"><img src="https://github-readme-stats.vercel.app/api?username=deepakrudrapaul&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="deepakrudrapaul's GitHub stats" /></a>
 <br/>  
 
-<div align="center">
+
+## Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## Support Me
+<a href="https://www.buymeacoffee.com/deepakrudrapaul"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+<div>
 <img src="https://komarev.com/ghpvc/?username=deepakrudrapaul&&style=flat-square" align="center" />
 </div>  
-
-<br />
