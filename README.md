@@ -98,7 +98,10 @@ Full Stack Developer
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
+
+
+<br/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deepakrudrapaul&bg_color=ffffff&color=000000&line=ff47f3&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>  
 
