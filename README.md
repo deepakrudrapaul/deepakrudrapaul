@@ -101,7 +101,8 @@ Full Stack Developer
 
 
 <br/>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deepakrudrapaul&bg_color=ffffff&color=000000&line=ff47f3&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<a href="http://www.github.com/deepakrudrapaul"><img src="[https://github-readme-stats.vercel.app/api?username=deepakrudrapaul&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true](https://github-readme-activity-graph.vercel.app/graph?username=deepakrudrapaul&bg_color=ffffff&color=000000&line=ff47f3&point=000000&area=true&hide_border=true))" alt="Deepak's GitHub Activity Graph" /></a>
 
 <br/>  
 
