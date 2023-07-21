@@ -27,6 +27,11 @@ Full Stack Developer
 <br/>  
 
 
+<a href="http://www.github.com/deepakrudrapaul"><img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakrudrapaul&bg_color=ffffff&color=000000&line=ff47f3&point=000000&area=true&hide_border=true" alt="Deepak's GitHub Activity Graph" /></a>
+
+<br/>  
+
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -102,9 +107,6 @@ Full Stack Developer
 
 <br/>
 
-<a href="http://www.github.com/deepakrudrapaul"><img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakrudrapaul&bg_color=ffffff&color=000000&line=ff47f3&point=000000&area=true&hide_border=true" alt="Deepak's GitHub Activity Graph" /></a>
-
-<br/>  
 
 
 ## Github Stats  
