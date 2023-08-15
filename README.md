@@ -7,10 +7,7 @@ Full Stack Developer | Open to new opportunities
 -------------
   
 
-- 🔭 I’m currently working on [Stock Vue](https://github.com/deepakrudrapaul/stock-vue)  
-  
-
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently building [Async Post - Open Source Tweet Scheduler](https://github.com/deepakrudrapaul/async-post)  
 
   
 - 📧 You can contact me at [deepakrudrapaul@gmail.com](mailto:deepakrudrapaul@gmail.com)
